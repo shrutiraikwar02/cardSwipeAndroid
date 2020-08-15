@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CardStack">
+        <attr name="card_backgroundColor" format="color"/>
+        <attr name="card_stack_size" format="integer"/>
+        <attr name="card_enable_loop" format="boolean"/>
+        <attr name="card_margin" format="dimension"/>
+        <attr name="card_enable_rotation" format="boolean"/>
+        <attr name="card_gravity">
+            <enum name="top" value="48"/>
+            <enum name="bottom" value="80"/>
+        </attr>
+    </declare-styleable>
+
+</resources>

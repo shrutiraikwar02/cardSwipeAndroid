@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">cardSwipe</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <!-- webservice strings-->
+    <string name="fail_connect">Sorry failed to connect to server</string>
+    <string name="netwrk_conn">Please check network connection!</string>
+    <string name="unable_auth">Unable to authenticate.</string>
+    <string name="client_not_response">Client not responding.</string>
+    <string name="server_not_response">Server not responding please try again after sometime</string>
+    <string name="something_wrong">Something went wrong.</string>
+    <string name="its_loading">Please wait its loading.</string>
+
+    <!-- Application strings-->
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+    <string name="decline">Decline</string>
+    <string name="name">Name : </string>
+    <string name="like">Like : </string>
+    <string name="country">Country : </string>
+    <string name="gender">Gender : </string>
+    <string name="age">Age : </string>
+    <string name="phone">Phone : </string>
+    <string name="card_status_msg">Member Status </string>
+
+    <!--APIs strings -->
+    <string name="get_result">get_result</string>
+</resources>
